@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanvi Dedhia
-- 👀 I’m interested in AIML and DS.
+- 👀 I’m maily interested in AIML and robotics.
 - 🌱 I’m currently studying Computer Engineering.
 - 💞️ I’m looking forward to internships in my vacation.
 - 📫 How to reach me : linkedin
